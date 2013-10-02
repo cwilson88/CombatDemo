@@ -1,0 +1,5 @@
+C:\Users\Steven\Documents\GitHub\CombatDemo\CombatDemo\CombatDemo\bin\Debug\CombatDemo.exe
+C:\Users\Steven\Documents\GitHub\CombatDemo\CombatDemo\CombatDemo\bin\Debug\CombatDemo.pdb
+C:\Users\Steven\Documents\GitHub\CombatDemo\CombatDemo\CombatDemo\obj\Debug\CombatDemo.csprojResolveAssemblyReference.cache
+C:\Users\Steven\Documents\GitHub\CombatDemo\CombatDemo\CombatDemo\obj\Debug\CombatDemo.exe
+C:\Users\Steven\Documents\GitHub\CombatDemo\CombatDemo\CombatDemo\obj\Debug\CombatDemo.pdb

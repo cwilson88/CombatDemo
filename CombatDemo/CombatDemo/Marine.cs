@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace CombatDemo
 {
-    public class Class1
+    class Marine
     {
     }
 }
