@@ -10,7 +10,7 @@ namespace CombatDemo
     {
         static void Main()
         {
-            Console.WriteLine("This is now a Console Application Fucker");
+            Console.WriteLine("Welcome to Combat Demo");
 
             Console.ReadLine();
         }
